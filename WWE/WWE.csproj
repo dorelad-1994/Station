@@ -44,6 +44,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CAT.cs" />
     <Compile Include="DOG.cs" />
     <Compile Include="dor.cs" />
     <Compile Include="Program.cs" />
