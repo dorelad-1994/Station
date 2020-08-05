@@ -11,7 +11,10 @@ namespace WWE
         private int x;
         public Basketball()
         {
+<<<<<<< HEAD
             x = 5;
+======= 
+>>>>>>> 0f40411e6856bb4e9d0522662d0719434d4dd2af
         }
     }
 }
