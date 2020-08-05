@@ -8,5 +8,10 @@ namespace WWE
 {
     class Basketball
     {
+        private int x;
+        public Basketball()
+        {
+            x = 10;
+        }
     }
 }
