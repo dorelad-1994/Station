@@ -9,7 +9,7 @@ namespace WWE
     class Basketball
     {
         private int _size;
-
+<<<<<<< HEAD
         public Basketball(int size)
         {
             _size = size;
@@ -20,4 +20,7 @@ namespace WWE
             _size = size;
         }
     }
+<<<<<<< HEAD
 }
+=======
+
