@@ -10,7 +10,7 @@ namespace WWE
     {
         static void Main(string[] args)
         {
-            int x = 77777777777777777;
+            int x = 777777;
         }
     }
 }
