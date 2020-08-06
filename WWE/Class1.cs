@@ -10,7 +10,7 @@ namespace WWE
     {
         private int x;
         public Class1()
-        {
+        { 
             x = 10;
         }
     }
