@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace WWE
 {
-    class Class2
+    class Pר
     {
     }
 }
