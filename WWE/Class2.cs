@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace WWE
 {
-    class Pר
+    class Program
     {
+        static void Main(string[] args)
+        {
+        }
     }
 }
