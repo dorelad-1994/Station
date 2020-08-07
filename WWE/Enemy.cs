@@ -8,5 +8,8 @@ namespace WWE
 {
     class Enemy
     {
+        private String _name;
+        private int _healthy;
+        private bool _isDied;
     }
 }
